@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Photo.Album.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "--album=1&photo=101"
+    }
+  }
+}
